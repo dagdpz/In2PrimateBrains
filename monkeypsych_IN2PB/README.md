@@ -1,6 +1,6 @@
 # Monkeypsych main files  
   
-	monkeypsych_dev_dev  
+	monkeypsych_dev_binoriv 
 		- the latest version of monkeypsych for the binocular rivalry task  
   
 # Chopping file  
